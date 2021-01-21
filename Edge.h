@@ -4,7 +4,7 @@
 // ASU ID: 1212575453
 // Description: this header file defines an edge in the graph. Each edge
 //              has 3 attributes, namely two Cities and the air ticket
-//              price between them.
+//              price between them
 //********************************************************************
 
 #include <iostream>
